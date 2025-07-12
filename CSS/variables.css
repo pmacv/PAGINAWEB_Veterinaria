@@ -1,0 +1,9 @@
+:root {
+    --color-primario: #6a1b9a;
+    /* Morado tipo logo */
+    --color-secundario: #ffca28;
+    /* Amarillo cálido tipo logo */
+    --color-texto: #333;
+    --color-fondo: #fff;
+    --fuente-principal: 'Segoe UI', sans-serif;
+}

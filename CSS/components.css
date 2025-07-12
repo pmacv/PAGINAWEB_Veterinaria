@@ -1,0 +1,23 @@
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+    padding: 1rem;
+    background-color: var(--color-primario);
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav ul li a:hover {
+    color: var(--color-secundario);
+}
+
+h1,
+h2 {
+    color: var(--color-primario);
+    margin-bottom: 0.5rem;
+}
